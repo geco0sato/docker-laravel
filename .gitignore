@@ -1,0 +1,5 @@
+laravel/www/*
+nginx/logs/*
+posgres/data/*
+
+!.gitkeep
